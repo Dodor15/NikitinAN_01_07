@@ -1,0 +1,15 @@
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.exe
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.deps.json
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.runtimeconfig.json
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.runtimeconfig.dev.json
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.dll
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\ref\NikitinAN_01_07.dll
+C:\Users\305-9\Desktop\NikitinAN_01_07\bin\Debug\net5.0\NikitinAN_01_07.pdb
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.AssemblyInfoInputs.cache
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.AssemblyInfo.cs
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.dll
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\ref\NikitinAN_01_07.dll
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.pdb
+C:\Users\305-9\Desktop\NikitinAN_01_07\obj\Debug\net5.0\NikitinAN_01_07.genruntimeconfig.cache
