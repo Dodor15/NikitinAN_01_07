@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikitinAN_01_07", "NikitinAN_01_07.csproj", "{A30CB935-B164-4407-8D04-78A8F07CE88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{EAD182BE-14F0-4916-AB75-C425220DED2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30CB935-B164-4407-8D04-78A8F07CE88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30CB935-B164-4407-8D04-78A8F07CE88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30CB935-B164-4407-8D04-78A8F07CE88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30CB935-B164-4407-8D04-78A8F07CE88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD182BE-14F0-4916-AB75-C425220DED2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD182BE-14F0-4916-AB75-C425220DED2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD182BE-14F0-4916-AB75-C425220DED2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD182BE-14F0-4916-AB75-C425220DED2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDB7A1A-BB2F-482C-949A-BB9CA4C36B5B}
+	EndGlobalSection
+EndGlobal
